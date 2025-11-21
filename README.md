@@ -1,8 +1,8 @@
 # Rock, Paper, Scissors
 
-For this exercise I used conditional statements to generate a simple game or RPS.
+For this exercise I used conditional statements to generate a simple game of RPS.
 
-Used `import` to use the `random.choice()` method to generate a random response for the computer, that got validated against the user's answered captured via `input()`.<BR>
+Used `import` to use the `random.choice()` method to generate a random response for the computer that got validated against the user's answered captured via `input()`.
 
 Contrary to the exercise's instruction, I stored my options in a tuple named `options` and not a list.
 
